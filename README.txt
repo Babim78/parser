@@ -22,7 +22,7 @@ jdk 1.7 and path to maven bin folder.
 
 5.open cmd
 
-6.go into the folder 'target'
+6.go to the folder in which the archive is unpacked
 
 7.input command 'java -jar parse-1.0.jar' enter
 
