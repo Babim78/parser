@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.049" errors="0" skipped="0" tests="12" name="com.condevy.testtask.qname.parser.QNameParserTest">
+<testsuite failures="0" time="0.052" errors="0" skipped="0" tests="12" name="com.condevy.testtask.qname.parser.QNameParserTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_21\jre\bin"/>
@@ -62,15 +62,15 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase time="0.009" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="incorrectSimpleNameTest"/>
-  <testcase time="0.006" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="correctSimpleNameTest"/>
+  <testcase time="0.005" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="correctSimpleNameTest"/>
   <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="getCorrectPrefixTest"/>
-  <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="getCorrectLocaleNameTest"/>
-  <testcase time="0.007" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="incorrectInputTest"/>
-  <testcase time="0" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="correctInputTest"/>
+  <testcase time="0.005" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="getCorrectLocaleNameTest"/>
+  <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="incorrectInputTest"/>
+  <testcase time="0.005" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="correctInputTest"/>
   <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="incorretctInputWithSpace"/>
   <testcase time="0.003" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="incorretctInputWithEndSpace"/>
   <testcase time="0.003" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="notPrefixTest"/>
-  <testcase time="0.002" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="notLocalNameTest"/>
-  <testcase time="0.003" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="noInputStringTest"/>
-  <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="getCorrectQNameObject"/>
+  <testcase time="0.003" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="notLocalNameTest"/>
+  <testcase time="0.004" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="noInputStringTest"/>
+  <testcase time="0.003" classname="com.condevy.testtask.qname.parser.QNameParserTest" name="getCorrectQNameObject"/>
 </testsuite>
