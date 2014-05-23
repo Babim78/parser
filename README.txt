@@ -1,4 +1,3 @@
-1.install maven 3
 
 2.install jdk 1.7
 
