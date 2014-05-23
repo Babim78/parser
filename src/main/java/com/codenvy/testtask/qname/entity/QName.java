@@ -1,6 +1,7 @@
 package com.codenvy.testtask.qname.entity;
 
 /**
+ *change main class
  * this class describes entity QName
  */
 public class QName {
